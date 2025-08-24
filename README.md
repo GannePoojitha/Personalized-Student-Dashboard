@@ -32,3 +32,4 @@ A live calendar: It displays your schedule and upcoming events.
 
 Personalized Data Display: The main output is a summary of a student's academic life. It takes data (like grades, assignments, and schedules) and presents it in an easy-to-understand, visual format, helping students make sense of their progress quickly.
 
+![pic 2](https://github.com/user-attachments/assets/1a5372a4-35c8-4d15-b05e-c17f77d058b1)
